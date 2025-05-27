@@ -1,1 +1,2 @@
 # 4-Week Python Refresher
+Day 1 will be Monday, May 26. I am working on refreshing some of my skills, as my Fall 2024 semester was Linear Algebra, Probability and Statistics, DIP, and Web Dev...I did not utilize Python as much as I may have liked. 
