@@ -15,3 +15,4 @@ for item, amount in expenses:
 
 print(f"\nTotal spent: ${total:.2f}")
 
+print()
