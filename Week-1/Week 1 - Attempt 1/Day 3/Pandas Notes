@@ -1,0 +1,23 @@
+What is Pandas?
+
+Pandas is Python’s powerhouse library for data manipulation, analysis, and cleaning.
+Think of it as Excel for coders, but way more powerful.
+
+You use pandas when you want to:
+	•	Read and analyze CSVs or Excel files
+	•	Clean and organize messy data
+	•	Group, filter, and summarize stats
+	•	Prepare data for visualizations or machine learning
+
+Core Building Block: The DataFrame
+	•	A DataFrame is basically a table of data — like an Excel sheet.
+	•	A Series is one column of that table.
+
+import pandas as pd
+
+Read a CSV file into a DataFrame: 
+    df = pd.read_csv("mock_statement.csv")
+
+Show first 5 rows: 
+    print(df.head())
+
