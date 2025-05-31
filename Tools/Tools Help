@@ -1,0 +1,32 @@
+Python Tools Cheat Sheet
+
+Function	                                Purpose
+
+print_dict_vertical(d, title=None)	        Print dictionary key-value pairs vertically with an optional title.
+
+print_section(title)	                    Print a visual divider with a section title.
+
+log(message)	                            Print a timestamped log message for debugging or tracking.
+
+Timer(label)	                            Context manager to time code execution (used with with).
+
+safe_int_input(prompt)	                    Prompt user for an integer safely with error handling.
+
+percent(value, total, round_to=2)	        Convert a value/total to a percentage string.
+
+clear_screen()	                            Clear the terminal screen (cross-platform).
+
+progress_bar(iterable, prefix='', size=60)  Display a live progress bar while looping.
+
+load_json(filename)	                        Load JSON data from a file into a Python dictionary or list.
+
+save_json(data, filename)	                Save a Python object as a formatted JSON file.
+
+read_lines(filename)	                    Read lines from a text file into a list.
+
+write_lines(lines, filename)	            Write a list of strings into a text file, each on a new line.
+
+generate_password(length=12)	            Generate a secure random password with letters, digits, symbols.
+
+generate_username(prefix='user')	        Create a random username with a prefix and random number.
+

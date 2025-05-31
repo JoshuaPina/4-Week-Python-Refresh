@@ -5,3 +5,7 @@
 # Day 2 involved improving the budget tracker, I also implemented some f-strings to create a rudimentary chart to organize the data. 
 
 # Day 3 is going to involve some pandas usage.
+
+# May 31 - I reviewed Day 1 and practiced math, fstrinfgs and a basic paycheck calculator, and added this to the day 1 folder.
+
+# May 31 - I also worked on if and for loops, as well as random and count looping
